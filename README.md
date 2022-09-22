@@ -4,6 +4,8 @@ Yeah, I must not call it "framework", but it's so hyped 😁
 
 The idea of this project is to create API for rendering `Components` as in React (which is not framework ☝)
 
+Try it without installing [here](https://dkostmii.github.io/nano-framework)
+
 ## How to start project
 
 1. Install dependencies:
